@@ -1,4 +1,4 @@
-# Brick Blog 
+# Brick Blog | <a href="https://brickblog-zh.herokuapp.com/"><strong>Deployed Site<strong></a>
 <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 
 ### By: [Reising, Sandfer, Nguy, and Hsu](#questions)
@@ -7,7 +7,7 @@
 
 ## App Description
 
-Brick Blog is a place for users to share their own Lego creations or thoughts on other user's sets. This client was built with the use of React, with the server being built with Node.js, Express.js with a MongoDB database. Create your own account to share your own posts and comment on others.
+Brick Blog is a place for users to share their own Lego creations or thoughts on other user's sets. This client was built with the use of React, with the server being built with Node.js, Express.js with a MongoDB Atlas database. Create your own account to share your own posts and comment on others.
 
 ---
 
@@ -21,7 +21,7 @@ Brick Blog is a place for users to share their own Lego creations or thoughts on
 
 ## Install
 
-Clone this repository (<code>https://github.com/wreising/Week_11-Project_3</code>) to access our source code. After installing the required dependencies with `npm install`, then starting the client and server with `npm run develop`. Provided seeds can be used to start out your database with `npm run seed`.
+Clone this repository (<code>https://github.com/hsuzach/BrickBlog</code>) to access our source code. After installing the required dependencies with `npm install`, then starting the client and server with `npm run develop` to create a local instance. Provided seeds can be used to start out your database with `npm run seed`.
 
 ---
 
